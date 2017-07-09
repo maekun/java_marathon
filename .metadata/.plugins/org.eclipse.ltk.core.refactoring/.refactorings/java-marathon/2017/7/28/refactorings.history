@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;java_marathon.PastaDishes&apos; to &apos;PastaDish&apos;&#x0A;- Original project: &apos;java-marathon&apos;&#x0A;- Original element: &apos;java_marathon.PastaDishes&apos;&#x0A;- Renamed element: &apos;java_marathon.PastaDish&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PastaDishes&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;java_marathon{PastaDishes.java[PastaDishes" matchStrategy="1" name="PastaDish" qualified="false" references="true" similarDeclarations="false" stamp="1499586786863" textual="false" version="1.0"/>
+</session>

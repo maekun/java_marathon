@@ -1,0 +1,8 @@
+package java_marathon;
+
+public class PastaDishes extends Dish{
+
+	
+	
+	private static int totalDishes = 0;
+}

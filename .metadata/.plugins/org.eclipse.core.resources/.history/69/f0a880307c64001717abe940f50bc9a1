@@ -1,0 +1,13 @@
+package java_marathon;
+
+import java.util.List;
+
+public class JavaMarathon5 {
+
+	public static void main(String[] args) {
+	
+		List<Dish> dishes = ArrayList<Dish>();
+		
+
+	}
+}

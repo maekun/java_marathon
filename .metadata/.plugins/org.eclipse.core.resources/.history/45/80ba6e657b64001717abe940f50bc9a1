@@ -1,0 +1,30 @@
+package java_marathon;
+
+public class PastaDishes extends Dish{
+
+	private static int totalDishes = 0;
+	
+	
+	public PastaDishes() {
+		// TODO Auto-generated constructor stub
+		this.setName("パスタ用");
+		this.totalDishes++;
+	}
+
+
+	
+	
+	/**
+	 * setter/getter
+	 * @return
+	 */
+	public static int getTotalDishes() {
+		return totalDishes;
+	}
+
+
+	public static void setTotalDishes(int totalDishes) {
+		PastaDishes.totalDishes = totalDishes;
+	}
+	
+}
